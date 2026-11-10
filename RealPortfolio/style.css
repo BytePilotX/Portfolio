@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+.welcome {
+    text-align: center;
+    font-family: 'Geist Pixel', sans-serif;
+    -webkit-text-fill-color: white;
+    background: #0290f5;
+    height: 100vh;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+}
+
+#toptext {
+    padding-top: 25vh;
+    padding-bottom: 25vh;
+    padding-left: 25vh;
+    padding-right: 25vh;
+    font-size: 5em;
+}
+
+.textbody {
+    text-align: center;
+    font-family: 'Geist Pixel', sans-serif;
+    height: 100vh;
+    width: 100%;
+    left: 0px;
+    background-color: #f0f0f0;
+}
